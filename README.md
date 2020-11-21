@@ -84,3 +84,4 @@ php artisan migrate
 17. We have already installed laravel collectives. Make changes to _config/app.php_ as shown [here](https://laravelcollective.com/docs/5.6/html).
 
 18. Make sure that the Apache server and MySQL are running. The project site will be visible at _http://notes.ves_. This will be your local server, website won't be accessible via web."# Expt9-Laravel-Notes-App" 
+# Expt9-Laravel-Notes-App
