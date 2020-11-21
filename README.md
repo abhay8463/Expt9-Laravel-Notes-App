@@ -85,3 +85,4 @@ php artisan migrate
 
 18. Make sure that the Apache server and MySQL are running. The project site will be visible at _http://notes.ves_. This will be your local server, website won't be accessible via web."# Expt9-Laravel-Notes-App" 
 # Expt9-Laravel-Notes-App
+# Expt9-Laravel-Notes-App
