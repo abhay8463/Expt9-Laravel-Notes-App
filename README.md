@@ -1,6 +1,13 @@
 # Notes-App
 ## Experiment 9 LARAVEL FRAMEWORK.
 
+### Screenshots
+![1](imagesGitHub/5.png) <br><br>
+![2](imagesGitHub/6.png) <br><br>
+![3](imagesGitHub/7.png) <br><br>
+![4](imagesGitHub/8.png) <br><br>
+
+
 ## Installation Steps
 1. Install [XAMPP](https://www.apachefriends.org/index.html).
 
